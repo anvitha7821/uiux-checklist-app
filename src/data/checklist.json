@@ -1,0 +1,14 @@
+[
+  { "category": "Accessibility", "task": "Use semantic HTML", "done": false },
+  { "category": "Accessibility", "task": "Add ARIA labels", "done": false },
+  { "category": "Responsiveness", "task": "Mobile-friendly layout", "done": false },
+  { "category": "Responsiveness", "task": "Use relative units (%, em, rem)", "done": false },
+  { "category": "Performance", "task": "Minify CSS/JS", "done": false },
+  { "category": "Performance", "task": "Lazy-load images", "done": false },
+  { "category": "Design Consistency", "task": "Use consistent spacing and alignment", "done": false },
+  { "category": "Design Consistency", "task": "Stick to brand colors & fonts", "done": false },
+  { "category": "Animations & Feedback", "task": "Add button hover/focus states", "done": false },
+  { "category": "Animations & Feedback", "task": "Show loading indicator when needed", "done": false },
+  { "category": "SEO", "task": "Add descriptive title & meta tags", "done": false },
+  { "category": "SEO", "task": "Use proper heading levels (h1 > h2 > h3)", "done": false }
+]
