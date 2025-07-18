@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/uiux-checklist-app/static/css/main.c8896396.css",
+    "main.js": "/uiux-checklist-app/static/js/main.0ea53851.js",
+    "static/js/977.9d123035.chunk.js": "/uiux-checklist-app/static/js/977.9d123035.chunk.js",
+    "static/js/732.777c6430.chunk.js": "/uiux-checklist-app/static/js/732.777c6430.chunk.js",
+    "index.html": "/uiux-checklist-app/index.html",
+    "main.c8896396.css.map": "/uiux-checklist-app/static/css/main.c8896396.css.map",
+    "main.0ea53851.js.map": "/uiux-checklist-app/static/js/main.0ea53851.js.map",
+    "977.9d123035.chunk.js.map": "/uiux-checklist-app/static/js/977.9d123035.chunk.js.map",
+    "732.777c6430.chunk.js.map": "/uiux-checklist-app/static/js/732.777c6430.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8896396.css",
+    "static/js/main.0ea53851.js"
+  ]
+}
